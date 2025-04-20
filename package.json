@@ -1,6 +1,6 @@
 {
   "name": "store-of-holly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Digital game distribution platform",
   "main": "dist/main/main.js",
   "scripts": {
