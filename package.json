@@ -1,6 +1,6 @@
 {
   "name": "store-of-holly",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Digital game distribution platform",
   "main": "dist/main/main.js",
   "scripts": {
@@ -81,9 +81,7 @@
     "publish": {
       "provider": "github",
       "owner": "Strebulaev",
-      "repo": "store-of-holly",
-      "private": false,
-      "releaseType": "release"
+      "repo": "store-of-holly"
     },
     "win": {
       "target": "nsis",
