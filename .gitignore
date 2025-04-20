@@ -33,3 +33,6 @@ build/
 *.sw2
 *.sw1
 *.sw0
+.vs/
+bin/
+obj/
