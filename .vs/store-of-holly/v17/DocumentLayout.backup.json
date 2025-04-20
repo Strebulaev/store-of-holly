@@ -94,7 +94,8 @@
               "RelativeToolTip": ".github\\workflows\\release.yml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAkwCMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-04-20T16:59:13.332Z"
+              "WhenOpened": "2025-04-20T16:59:13.332Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,7 +107,8 @@
               "RelativeToolTip": "src\\renderer\\components\\App.tsx",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-20T16:58:20.414Z"
+              "WhenOpened": "2025-04-20T16:58:20.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -118,7 +120,8 @@
               "RelativeToolTip": "src\\renderer\\components\\UpdateNotifier.tsx",
               "ViewState": "AgIAAC0AAAAAAAAAAAAkwEcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-20T16:57:47.55Z"
+              "WhenOpened": "2025-04-20T16:57:47.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -130,7 +133,8 @@
               "RelativeToolTip": "src\\main\\services\\updateService.ts",
               "ViewState": "AgIAAAcAAAAAAAAAAAAkwCEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-04-20T16:57:31.793Z"
+              "WhenOpened": "2025-04-20T16:57:31.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -140,7 +144,7 @@
               "RelativeDocumentMoniker": "package.json",
               "ToolTip": "C:\\store-of-holly\\package.json",
               "RelativeToolTip": "package.json",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-20T16:56:16.185Z",
               "EditorCaption": ""

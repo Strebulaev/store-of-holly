@@ -3,11 +3,7 @@
     "",
     "\\.github",
     "\\.github\\workflows",
-    "\\src",
-    "\\src\\main\\services",
-    "\\src\\main\\utils",
-    "\\src\\renderer\\components"
+    "\\src"
   ],
-  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }

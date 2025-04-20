@@ -80,7 +80,7 @@
     "copyright": "Copyright © 2023 Store Of Holly",
     "publish": {
       "provider": "github",
-      "owner": "ВАШ_GITHUB_USERNAME",
+      "owner": "Strebulaev",
       "repo": "store-of-holly",
       "private": false,
       "releaseType": "release"
